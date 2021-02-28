@@ -1,0 +1,25 @@
+$primary: #f8fafb;
+$background: #e9ecef;
+.label {
+  position: relative;
+  right: 150px;
+  top: 40px;
+}
+.border {
+  background-color: $primary;
+  top: 30px;
+}
+.cont {
+  padding-top: 100px;
+  padding-left: 120px;
+}
+
+.color {
+  background-color: $background;
+  height: 1200px;
+}
+
+.column {
+  margin-left: -120px;
+  margin-top: -80px;
+}
